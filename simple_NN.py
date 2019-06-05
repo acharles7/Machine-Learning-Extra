@@ -1,3 +1,5 @@
+#Simple two layer NN
+
 import numpy as np
 
 w1 = 0.01 * np.random.randn(1, 3)
